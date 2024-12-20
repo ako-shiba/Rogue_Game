@@ -4,10 +4,10 @@ This is my reimagining of the original 'Rogue'—the game that laid the foundati
 Its a simple game that can be played an IDE or in your CMD! 
 
 Characters:
-@ - Player
-! - Enemy
-# - Crate
-. - Floor
+- @ = Player
+- ! = Enemy
+- # = Crate
+- . = Floor
 
 
 If you don't have an IDE you can play it in CMD:
